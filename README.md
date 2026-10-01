@@ -1,6 +1,6 @@
 # Bidirectional ServiceNow & GitHub Integration
 
-A robust, bidirectional integration between **ServiceNow ITSM** and **GitHub** that bridges Incident Management and software development workflows. When an incident is logged in ServiceNow, a corresponding GitHub Issue is automatically created. Once developers implement the fix, submit a Pull Request, and merge it into the target branch, a GitHub Webhook notifies ServiceNow to automatically resolve the incident with relevant commit and PR details.
+A robust, bidirectional integration between **ServiceNow ITSM** and **GitHub** that bridges Incident Management and software development workflows. When an incident is logged in ServiceNow, a corresponding GitHub Issue is automatically created. Once developers implement the fix, submit a Pull Request, and merge it into the target branch, a GitHub Webhook notifies ServiceNow to automatically resolve the incident with relevant commit and PR detailas.
 
 ---
 
