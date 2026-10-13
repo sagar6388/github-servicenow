@@ -4,7 +4,7 @@ A robust, bidirectional integration between **ServiceNow ITSM** and **GitHub** t
 
 ---
 
-## 📌 Architecture & Workflows
+## 📌 Architecture & Workflow
 
 ```mermaid
 flowchart TD
